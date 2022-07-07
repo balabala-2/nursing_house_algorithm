@@ -1,0 +1,4 @@
+train: /Users/userli/PycharmProjects/algorithm/yolov5/dataset/FallDataset/annotation/train.txt
+val: /Users/userli/PycharmProjects/algorithm/yolov5/dataset/FallDataset/annotation/val.txt
+nc: 1
+names: ["fall"]
